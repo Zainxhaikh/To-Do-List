@@ -1,0 +1,31 @@
+body {
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    margin: 16px;
+    height: 30px;
+    width: 200px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+button {
+    height: 35px;
+    width: 90px;
+    font-size: large;
+    background-color: bisque;
+    border-radius: 50px;
+}
+
+.delete {
+    margin: 16px;
+}
